@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @gabidameto
-- 👀 I’m interested in  aprender programação
-  - 🌱 I’m currently learning  HTML  developer
-- 💞️ I’m looking to collaborate no aprendizado de outros desenvolvedores     
-- 📫 How to reach me  dametog@gmail.com
+- 👋 Oiii! Eu sou a Gabriela Dameto
+- 👀 Estou aprendendo programação
+  - 🌱 Estou me desenvolvendo em HTML, CSS e JS.  
 
 <!---
 gabidameto/gabidameto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
